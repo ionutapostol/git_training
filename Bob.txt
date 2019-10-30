@@ -1,1 +1,3 @@
 this is a test message!
+
+new line on master branch.
